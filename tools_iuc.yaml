@@ -2070,7 +2070,10 @@ tools:
   - name: winnowmap
     owner: iuc
     tool_panel_section_label: Mapping
-
+    
+  - name: wfmash
+    owner: iuc
+    tool_panel_section_label: Mapping
 
 # METAGENOMIC ANALYSIS
 
