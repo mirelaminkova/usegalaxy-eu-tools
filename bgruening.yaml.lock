@@ -127,6 +127,7 @@ tools:
   owner: bgruening
   revisions:
   - 6d8444408ff1
+  - 6d8be3337e2a
   - a6318f87f2cd
   - abba05ead5d7
   - d6ede73082da
@@ -212,6 +213,7 @@ tools:
   owner: bgruening
   revisions:
   - 1f9f2edc8cf4
+  - 45d0307149b4
   - bdfd7cef3438
   tool_panel_section_label: Assembly
 - name: mitohifi
@@ -372,6 +374,7 @@ tools:
   owner: bgruening
   revisions:
   - 20712958f90e
+  - 237b54837e85
   - 6d1330bc4774
   - a5cc4a0173bf
   tool_panel_section_label: GIS Data Handling
@@ -410,6 +413,7 @@ tools:
 - name: wordcloud
   owner: bgruening
   revisions:
+  - 45c4cc885ddb
   - 54c2d8ebf0cf
   - 57e3de4b3b0d
   - 6055ffae8903
@@ -566,6 +570,7 @@ tools:
   - 919198d656dd
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - db511406350a
   - eae46976fbb8
   tool_panel_section_label: Machine Learning

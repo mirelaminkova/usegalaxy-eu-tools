@@ -635,6 +635,7 @@ tools:
   revisions:
   - 02d2be90dedb
   - 0630258dcf35
+  - 4aa3666b66fa
   - 4ed102b922cb
   - 61461e52c923
   - 80852884053f
@@ -724,6 +725,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
   - 360330a867f0
@@ -817,6 +819,7 @@ tools:
   - 492d34a75de6
   - 5d5d9cc554f9
   - 61e76fb65daf
+  - 7e5631773cea
   - 845dfafac355
   - bacc38e0a29e
   - be4f389a95d9
@@ -871,6 +874,7 @@ tools:
   revisions:
   - 26ee5e11ecbe
   - 31c42a2c02d3
+  - 371299578b8e
   - 3d93dd18d9f8
   - 3dd49be3f7d3
   - 5e33b465d8d5
