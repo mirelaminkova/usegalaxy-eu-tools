@@ -60,6 +60,7 @@ tools:
 - name: omero_filter
   owner: ufz
   revisions:
+  - 006d3a69c365
   - 048353b617ba
   - 21e1765c5f19
   - 558c09a342cb

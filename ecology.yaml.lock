@@ -884,6 +884,7 @@ tools:
   - a7e081ceb76a
   - abfd8a6544d7
   - b2f1f75d49c4
+  - bb89ae58738c
   - bf675f34b056
   - c19b16e5729c
   - c1a4b5f3b432
@@ -1720,4 +1721,5 @@ tools:
   - 0f56f5f6bc3f
   - '310676858178'
   - 809f339deae2
+  - aff0214687fa
   tool_panel_section_label: Computer vision
