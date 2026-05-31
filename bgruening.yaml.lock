@@ -356,6 +356,7 @@ tools:
   - 024d12e9b79b
   - 384ed4cad819
   - 9fae02363d19
+  - b05456e47259
   - b5220726f15a
   tool_panel_section_label: GIS Data Handling
 - name: 3dtrees_py3dtiles
@@ -434,6 +435,7 @@ tools:
 - name: cellposesam
   owner: bgruening
   revisions:
+  - 48fe4ddcaeeb
   - bc1410a8a247
   tool_panel_section_label: Imaging
 - name: bioimage_inference
@@ -1047,6 +1049,7 @@ tools:
   - 28e902e3d8d6
   - 86d767b93457
   - 914a7b992c2c
+  - 914dcb4df04c
   - 99898a312165
   - d7551996b4a3
   tool_panel_section_label: Machine Learning
