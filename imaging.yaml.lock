@@ -468,6 +468,7 @@ tools:
   owner: imgteam
   revisions:
   - 4deffc9540a3
+  - 86886859d876
   - 8d357579e407
   - bdc70b34153a
   tool_panel_section_label: Imaging
@@ -494,6 +495,7 @@ tools:
   - 1a7c29d5fc11
   - 666af1279007
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_label: Imaging
 - name: imagej2_noise
   owner: imgteam
@@ -534,6 +536,7 @@ tools:
   revisions:
   - 056e74fbbf6c
   - 1f92b1da556b
+  - 93cb13a320fe
   - edfc597fb180
   - ef3de3e84817
   tool_panel_section_label: Imaging
@@ -561,6 +564,7 @@ tools:
   - 5b154339fd90
   - aeae7e29d525
   - b143159845b4
+  - b92f57ebf6c8
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_raw_transform
   owner: imgteam
@@ -583,6 +587,7 @@ tools:
   owner: imgteam
   revisions:
   - 3272e0439968
+  - 3f5741e550e9
   - 50f2b961b192
   - bdee06a1bcfa
   tool_panel_section_label: Imaging
@@ -615,6 +620,7 @@ tools:
   revisions:
   - 1cf9771e0e53
   - 6e8be21a505c
+  - ac4aee7dc64c
   - d3e8ef83f3bf
   tool_panel_section_label: Imaging
 - name: imagej2_sharpen
@@ -644,6 +650,7 @@ tools:
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   - d48c999b3b96
   - d7fbe9662213
