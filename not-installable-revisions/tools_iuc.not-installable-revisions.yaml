@@ -4592,3 +4592,152 @@ tools:
   revisions:
   - c8467246b57e
   - e400dcbc60d0
+ name: deeptools_compute_matrix_operations
+  owner: bgruening
+  revisions:
+  - be95d48dd27f
+- name: deeptools_correct_gc_bias
+  owner: bgruening
+  revisions:
+  - 00a71ff7c06b
+- name: deeptools_multi_bam_summary
+  owner: bgruening
+  revisions:
+  - b4e53394fced
+- name: deeptools_plot_correlation
+  owner: bgruening
+  revisions:
+  - e44978659400
+- name: deeptools_plot_enrichment
+  owner: bgruening
+  revisions:
+  - 88ce7fed1488
+- name: deeptools_plot_fingerprint
+  owner: bgruening
+  revisions:
+  - ca8a7f0ea872
+- name: deeptools_plot_heatmap
+  owner: bgruening
+  revisions:
+  - 42cb23d80271
+- name: deeptools_plot_pca
+  owner: bgruening
+  revisions:
+  - 7784523d9743
+- name: deeptools_plot_profile
+  owner: bgruening
+  revisions:
+  - e9429e484e25
+- name: extract_genomic_dna
+  owner: iuc
+  revisions:
+  - c8467246b57e
+  - e400dcbc60d0
+- name: amrfinderplus
+  owner: iuc
+  revisions:
+  - 7844dbe4f8e2
+- name: novoplasty
+  owner: iuc
+  revisions:
+  - 15200570e926
+- name: revoluzer_crex
+  owner: iuc
+  revisions:
+  - 43af02990a47
+- name: map_param_value
+  owner: iuc
+  revisions:
+  - 5ac8a4bf7a8d
+- name: adapter_removal
+  owner: iuc
+  revisions:
+  - 40874f772ea1
+- name: bigwig_outlier_bed
+  owner: iuc
+  revisions:
+  - e55bda1c8e20
+- name: hicexplorer_chicexportdata
+  owner: bgruening
+  revisions:
+  - 1a31e75e979e
+- name: hicexplorer_hicdifferentialtad
+  owner: bgruening
+  revisions:
+  - 4977f65da0ff
+- name: hicexplorer_hichyperoptdetectloops
+  owner: bgruening
+  revisions:
+  - 3e5c86c2f80d
+- name: hicexplorer_hicinterintratad
+  owner: bgruening
+  revisions:
+  - 908fa330b93b
+- name: hicexplorer_hicmergedomains
+  owner: bgruening
+  revisions:
+  - febfddb0b3e8
+- name: checkm2
+  owner: iuc
+  revisions:
+  - 304ac5b49dea
+- name: dada2_dada
+  owner: iuc
+  revisions:
+  - b762f4d54f78
+- name: dada2_filterandtrim
+  owner: iuc
+  revisions:
+  - 6be249bfd55b
+- name: dada2_learnerrors
+  owner: iuc
+  revisions:
+  - 4bba91a89457
+- name: dada2_makesequencetable
+  owner: iuc
+  revisions:
+  - aab8af79110e
+- name: dada2_mergepairs
+  owner: iuc
+  revisions:
+  - a35c40af067f
+- name: dada2_plotcomplexity
+  owner: iuc
+  revisions:
+  - 5cba3a0dc3b6
+- name: dada2_plotqualityprofile
+  owner: iuc
+  revisions:
+  - 51971db051ba
+- name: dada2_seqcounts
+  owner: iuc
+  revisions:
+  - 256e7a119a95
+- name: dada2_primercheck
+  owner: iuc
+  revisions:
+  - 506ce55ba922
+- name: hal_hal2vg
+  owner: iuc
+  revisions:
+  - d989142ead55
+- name: raxmlng
+  owner: iuc
+  revisions:
+  - 376c7db05800
+- name: arriba
+  owner: iuc
+  revisions:
+  - 0da0b2dc624c
+- name: arriba_draw_fusions
+  owner: iuc
+  revisions:
+  - a2c1c52a7e47
+- name: samtools_sort
+  owner: devteam
+  revisions:
+  - 69dca890852c
+- name: column_remove_by_header
+  owner: iuc
+  revisions:
+  - 2040e4c2750a
