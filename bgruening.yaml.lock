@@ -1070,6 +1070,7 @@ tools:
   - 1aba57a5a716
   - 28e902e3d8d6
   - 36d65981163b
+  - 4d4abba5404b
   - 6768109c845f
   - 86d767b93457
   - 8ff5515316d9
@@ -1147,6 +1148,7 @@ tools:
 - name: data_manager_motus
   owner: bgruening
   revisions:
+  - 27bce4678358
   - 603939ba21ec
   - c153e8dd94ad
 - name: sylph_query
