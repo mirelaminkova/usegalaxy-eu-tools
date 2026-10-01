@@ -502,3 +502,23 @@ tools:
   revisions:
   - 359232b58f6a
   - cc91d730cc4f
+visions:
+  - be3df81c0353
+  - dab92afa0c98
+- name: stacks_rxstacks
+  owner: iuc
+  revisions:
+  - 2360d8cf42f7
+  - 3e43e51b3c3b
+  - 9d0ac63dcfcd
+- name: stacks_pstacks
+  owner: iuc
+  revisions:
+  - 67cbd80b83f5
+  - 7ebc7d229deb
+  - ede5223bc7f1
+- name: gecco
+  owner: althonos
+  revisions:
+  - 359232b58f6a
+  - cc91d730cc4f
